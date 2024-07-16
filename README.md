@@ -48,7 +48,7 @@ Los casos de pruebas serían:
 - que se intente transferir más de 200 soles
 - que la suma de transferencias sea mayor a 200 soles en el mismo día
 
-Sí, estos verifican que las funcionalidades actuales trabajen de manera correcta. 
+Sí, los casos de prueba existentes verifican que las funcionalidades actuales trabajen de manera correcta. 
 - No permite transferencias cuando el usuario no tiene saldo suficiente
 - no permite transferir a no contactos
 - el emisor debe existir. 
